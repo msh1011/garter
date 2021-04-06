@@ -1,4 +1,4 @@
-module garter
+module github.com/msh1011/garter
 
 go 1.16
 
